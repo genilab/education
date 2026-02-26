@@ -7,4 +7,4 @@
 
 ## Datasets
 
-*  **FAU Regulations** [(complete)](./datasets/FAU_Regulations(complete).zip) [(1-5)](./datasets/FAU_Regulations(1-5).zip) [(1-3)](./datasets/FAU_Regulations(1-3).zip)  -- PDF files from [FAU University Regulations](https://www.fau.edu/regulations/); last visited 26-Feb-2026.
+*  **FAU Regulations** -- PDF files from [FAU University Regulations](https://www.fau.edu/regulations/); last visited 26-Feb-2026 [(complete)](./datasets/FAU_Regulations(complete).zip) [(1-5)](./datasets/FAU_Regulations(1-5).zip) [(1-3)](./datasets/FAU_Regulations(1-3).zip)

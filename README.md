@@ -16,4 +16,4 @@ https://generativeintelligencelab.ai/education.html
 
 Blobs of documents *e.g. ZIP of PDFs)
 
-*  **FAU Regulations** [🔗](https://www.fau.edu/regulations/)  -- PDF files from FAU University Regulations. [(1-3)](./datasets/FAU_Regulations(1-3).zip)  [(1-5)](./datasets/FAU_Regulations(1-5).zip) [(all)](./datasets/FAU_Regulations(all).zip)
+*  **FAU Regulations** -- Lit of documents from [FAU University Regulations](https://www.fau.edu/regulations/) web site. [(1-3)](./datasets/FAU_Regulations(1-3).zip)  [(1-5)](./datasets/FAU_Regulations(1-5).zip) [(all)](./datasets/FAU_Regulations(all).zip)

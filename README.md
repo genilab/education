@@ -19,8 +19,6 @@ https://generativeintelligencelab.ai/education.html
 
 [Call for Datasets](https://forms.gle/DUz2ZEiRQjRLb58y8)
 
-## Numeric Datasets
-
 
 ## Document Datasets
 

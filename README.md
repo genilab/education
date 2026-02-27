@@ -14,4 +14,4 @@ https://generativeintelligencelab.ai/education.html
 
 ## Document Datasets
 
-*  **FAU Regulations** -- Lit of documents from [FAU University Regulations](https://www.fau.edu/regulations/) web site. [(small)](./datasets/FAU_Regulations(small).zip)  [(medium)](./datasets/FAU_Regulations(medium).zip) [(complete)](./datasets/FAU_Regulations(complete).zip)
+*  **FAU Regulations** -- Documents from [FAU University Regulations](https://www.fau.edu/regulations/) web site. [(small)](./datasets/FAU_Regulations(small).zip)  [(medium)](./datasets/FAU_Regulations(medium).zip) [(complete)](./datasets/FAU_Regulations(complete).zip)
